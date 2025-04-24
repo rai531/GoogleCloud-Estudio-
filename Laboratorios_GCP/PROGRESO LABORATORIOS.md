@@ -4,7 +4,7 @@ A continuación se apreciara un listado de laboratorios provenientes de "google 
 ## 1. Fundamentos de Infraestructura
  1. **GSP001: Create a Virtual Machine**✅
  2. **GSP002: Getting Started with Google Cloud Console**✅
- 3. **GSP064** **: IAM: Qwik Start.** 
+ 3. **GSP064** **: IAM: Qwik Start ✅
 ## 2. Fundamentos de Infraestructura
  4. **GSP073: Cloud Storage: Qwik Start**.
  5. **GSP185: Storing Image and Video Files in Cloud Storage - Python**
